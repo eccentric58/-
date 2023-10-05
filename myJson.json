@@ -1,0 +1,33 @@
+{
+  "Num": 1,
+  "Customer": {
+    "Discont": 19,
+    "Name": "Igor",
+    "Addres": "hsdfks"
+  },
+  "Diskont": 19.0,
+  "OrderList": [
+    {
+      "Num": 2,
+      "Prod": {
+        "Name": "Гречка",
+        "Cost": 56.5
+      }
+    },
+    {
+      "Num": 2,
+      "Prod": {
+        "Name": "Молоко",
+        "Cost": 71.99
+      }
+    },
+    {
+      "Num": 2,
+      "Prod": {
+        "Name": "Макароны",
+        "Cost": 40.0
+      }
+    }
+  ],
+  "allCost": 272.9538
+}

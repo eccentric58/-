@@ -1,0 +1,16 @@
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\bin\Debug\net7.0-windows\lab5_files.exe
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\bin\Debug\net7.0-windows\lab5_files.deps.json
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\bin\Debug\net7.0-windows\lab5_files.runtimeconfig.json
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\bin\Debug\net7.0-windows\lab5_files.dll
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\bin\Debug\net7.0-windows\lab5_files.pdb
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.Form1.resources
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.dll
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\refint\lab5_files.dll
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.pdb
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\lab5_files.genruntimeconfig.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab5_files\obj\Debug\net7.0-windows\ref\lab5_files.dll

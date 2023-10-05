@@ -1,0 +1,31 @@
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.Form1.resources
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.exe
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.deps.json
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.runtimeconfig.dev.json
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.dll
+C:\Users\Xiaomi\Desktop\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.pdb
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.dll
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.pdb
+C:\Users\Xiaomi\Desktop\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.genruntimeconfig.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.exe
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.deps.json
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.runtimeconfig.json
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.runtimeconfig.dev.json
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.dll
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\bin\Debug\netcoreapp3.1\lab5_files.pdb
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.AssemblyReference.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.Form1.resources
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.GenerateResource.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.AssemblyInfoInputs.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.AssemblyInfo.cs
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.dll
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.pdb
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab5_files\obj\Debug\netcoreapp3.1\lab5_files.genruntimeconfig.cache

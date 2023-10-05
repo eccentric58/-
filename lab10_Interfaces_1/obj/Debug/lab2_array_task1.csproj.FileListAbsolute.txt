@@ -1,0 +1,21 @@
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\bin\Debug\lab2_array_task1.exe.config
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\bin\Debug\lab2_array_task1.exe
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\bin\Debug\lab2_array_task1.pdb
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\obj\Debug\lab2_array_task1.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\obj\Debug\lab2_array_task1.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\obj\Debug\lab2_array_task1.exe
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task1\obj\Debug\lab2_array_task1.pdb
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.exe
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.pdb
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.exe.config
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.exe
+C:\Users\Xiaomi\Desktop\C#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.pdb
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.exe.config
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.exe
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\bin\Debug\lab2_array_task1.pdb
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.exe
+C:\Users\Игорь\Desktop\лабы по c#\lab10_Interfaces_1\obj\Debug\lab2_array_task1.pdb

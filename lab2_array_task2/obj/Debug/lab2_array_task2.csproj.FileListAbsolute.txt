@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\obj\Debug\lab2_array_task2.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\obj\Debug\lab2_array_task2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\bin\Debug\lab2_array_task2.exe.config
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\bin\Debug\lab2_array_task2.exe
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\bin\Debug\lab2_array_task2.pdb
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\obj\Debug\lab2_array_task2.exe
+C:\Users\Xiaomi\Desktop\C#\lab2_array_task2\obj\Debug\lab2_array_task2.pdb
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\bin\Debug\lab2_array_task2.exe.config
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\bin\Debug\lab2_array_task2.exe
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\bin\Debug\lab2_array_task2.pdb
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\obj\Debug\lab2_array_task2.csproj.AssemblyReference.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\obj\Debug\lab2_array_task2.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\obj\Debug\lab2_array_task2.exe
+C:\Users\Игорь\YandexDisk\Загрузки\7 семестр лабы (1)\C#\lab2_array_task2\obj\Debug\lab2_array_task2.pdb

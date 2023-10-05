@@ -1,0 +1,26 @@
+{
+  "Num": 1,
+  "Customer": {
+    "Discont": 14,
+    "Name": "кк",
+    "Addres": "кк"
+  },
+  "Diskont": 14.0,
+  "OrderList": [
+    {
+      "Num": 3,
+      "Prod": {
+        "Name": "Молоко",
+        "Cost": 71.99
+      }
+    },
+    {
+      "Num": 1,
+      "Prod": {
+        "Name": "Хлеб",
+        "Cost": 39.99
+      }
+    }
+  ],
+  "allCost": 220.1256
+}

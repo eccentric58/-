@@ -1,0 +1,27 @@
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\obj\Debug\lab3_classes.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\obj\Debug\lab3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\bin\Debug\lab3_classes.exe.config
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\bin\Debug\lab3_classes.exe
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\bin\Debug\lab3_classes.pdb
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\obj\Debug\lab3_classes.exe
+C:\Users\Xiaomi\Desktop\C#\lab3_classes\obj\Debug\lab3_classes.pdb
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\obj\Debug\lab3_classes.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\obj\Debug\lab3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\obj\Debug\lab3_classes.exe
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\obj\Debug\lab3_classes.pdb
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\bin\Debug\lab3_classes.exe.config
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\bin\Debug\lab3_classes.exe
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\bin\Debug\lab3_classes.pdb
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\C#\lab9_Serialization\obj\Debug\lab3_classes.csproj.CopyComplete
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\bin\Debug\lab3_classes.exe.config
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\bin\Debug\lab3_classes.exe
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\bin\Debug\lab3_classes.pdb
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\obj\Debug\lab3_classes.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\obj\Debug\lab3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\obj\Debug\lab3_classes.csproj.CopyComplete
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\obj\Debug\lab3_classes.exe
+C:\Users\Игорь\Desktop\лабы по c#\lab9_Serialization\obj\Debug\lab3_classes.pdb
