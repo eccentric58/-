@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dz1_Calculator",
     "\\lab10_Interfaces_1",
     "\\lab11_Interfaces_2",
     "\\lab12_krestiki_noliki",
@@ -10,6 +11,6 @@
     "\\lab8_exeptions",
     "\\lab9_Serialization"
   ],
-  "SelectedNode": "\\lab12_krestiki_noliki\\Form1.cs",
+  "SelectedNode": "\\dz1_Calculator\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
